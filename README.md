@@ -7,3 +7,7 @@ The VPC1 model was imported from the Sketchup version that can be found [here](h
 The main file of the model is named `Assembly.FCStd` and depends on all parts that can be found in the other `.FCStd` files.
 
 You are free to use this model for your own need. No waranty of any kind is supplied.
+
+---
+
+<img src="Assembly.png" alt="picture" width="600"/>
